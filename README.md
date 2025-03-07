@@ -1,4 +1,4 @@
-# expense_tracker_ap_in_flutter
+# expense_tracker_app_in_flutter
 
 Expense Tracker App In Flutter
 
